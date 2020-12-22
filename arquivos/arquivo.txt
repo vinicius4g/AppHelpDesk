@@ -1,0 +1,4 @@
+
+1#Notebook nao liga#Hardware#Problema no HD
+1#Erro de imprensao#Impressora#Impressora sem tinta.
+1#Conexão#Rede#Internet não conecta no computador.
